@@ -1,4 +1,4 @@
-# **Phishing Website Detection using Machine Learning**
+# **Phishing URL Detection using Machine Learning**
 
 ## **Overview**
 
